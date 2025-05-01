@@ -35,8 +35,27 @@
 
 ---
 
+## 🔗 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/atulpratapsingh944/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="mailto:atulpratapsingh944@gmail.com"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="30" /></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atulpratapsingh944&show_icons=true&theme=radical" alt="stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=atulpratapsingh944&theme=radical" alt="streak-stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpratapsingh944&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
 
