@@ -36,8 +36,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulpratapsingh944&theme=radical" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=atulpratapsingh944&theme=radical" alt="streak-stats" />
 </p>
+
+
 
 
 <!--
