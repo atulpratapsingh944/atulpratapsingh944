@@ -10,7 +10,7 @@
 - 🌱 Currently learning: **Advanced React, System Design**
 - 💻 Tech Stack: JavaScript, React.js, Node.js, MongoDB, Express.js, HTML, CSS, C/C++, Java
 - 📫 Reach me at: **atulpratapsingh944@gmail.com**
-- 🔗 Connect with me: [LinkedIn](www.linkedin.com/in/atulpratapsingh944) <!-- Replace with actual link -->
+<!-- Replace with actual link -->
 
 ---
 
@@ -50,9 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=atulpratapsingh944&show_icons=true&theme=radical" alt="stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=atulpratapsingh944&theme=radical" alt="streak-stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpratapsingh944&layout=compact&theme=radical" alt="top-langs" />
