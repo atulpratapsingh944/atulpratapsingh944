@@ -1,4 +1,9 @@
-![logo]"https://github.com/atulpratapsingh944/atulpratapsingh944/blob/main/White%20and%20Blue%20Memphis%20Graphic%20Designer%20LinkedIn%20Banner%20(1).png?raw=true"
+<!-- Banner -->
+<p align="center">
+  <img src="![White and Blue Memphis Graphic Designer LinkedIn Banner (1)](https://github.com/user-attachments/assets/68bf26d7-58dc-4009-88aa-100a97685950)
+" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Atul Pratap Singh</h1>
 <h3 align="center">A passionate and enthusiastic MERN Stack Developer from India 🇮🇳</h3>
 
@@ -11,7 +16,6 @@
 - 🌱 Currently learning: **Advanced React, System Design**
 - 💻 Tech Stack: JavaScript, React.js, Node.js, MongoDB, Express.js, HTML, CSS, C/C++, Java
 - 📫 Reach me at: **atulpratapsingh944@gmail.com**
-<!-- Replace with actual link -->
 
 ---
 
@@ -51,26 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=atulpratapsingh944&show_icons=true&theme=radical" alt="stats" />
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulpratapsingh944&layout=compact&theme=radical" alt="top-langs" />
 </p>
 
-
-
-
-<!--
-**atulpratapsingh944/atulpratapsingh944** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=atulpratapsingh944&theme=radical&border_radius=5" alt="GitHub streak" />
+</p>
