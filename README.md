@@ -1,3 +1,4 @@
+![logo]"https://github.com/atulpratapsingh944/atulpratapsingh944/blob/main/White%20and%20Blue%20Memphis%20Graphic%20Designer%20LinkedIn%20Banner%20(1).png?raw=true"
 <h1 align="center">Hi 👋, I'm Atul Pratap Singh</h1>
 <h3 align="center">A passionate and enthusiastic MERN Stack Developer from India 🇮🇳</h3>
 
