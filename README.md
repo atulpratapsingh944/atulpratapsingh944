@@ -59,5 +59,5 @@
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=atulpratapsingh944&theme=radical&border_radius=5" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=atulpratapsingh944&theme=radical&border_radius=5" alt="GitHub streak"/>
 </p>
